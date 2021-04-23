@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Input Controls</string>
+
+    <string name="show">Show</string>
+    <string name="enter">Enter a message</string>
+
+    <string name="phone_number_label">"Phone Number: "</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="spinner_work">Home</string>
+    <string name="hint_phone_number">Enter phone number</string>
+    <string name="show_button">Show</string>
+    <string name="nothing_entered">Nothing entered.</string>
+    <string name="nothing_selected">"onNothingSelected: "</string>
+
+    <string name="tap_test">Tap to test the alert:</string>
+    <string name="alert_button">Alert</string>
+    <string name="alert_message">Click OK to continue, or Cancel to stop:</string>
+    <string name="alert_title">Alert</string>
+    <string name="pressed_ok">Pressed OK</string>
+    <string name="pressed_cancel">Pressed Cancel</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="choose_datetime">Choose the date and time:</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="date">"Date: "</string>
+    <string name="time">"Time: "</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
